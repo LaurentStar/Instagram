@@ -44,6 +44,5 @@
         android:ems="10"
         android:gravity="start|top"
         android:hint="email "
-        android:inputType="textMultiLine"
-        android:text="" />
+        android:inputType="textMultiLine" />
 </RelativeLayout>
