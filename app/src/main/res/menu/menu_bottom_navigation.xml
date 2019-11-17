@@ -5,12 +5,12 @@
     <item
         android:id="@+id/action_home"
         android:icon="@android:drawable/ic_menu_compass"
-        android:title="Home"
+        android:title="Feed"
         app:showAsAction="always" />
     <item
         android:id="@+id/action_compose"
         android:icon="@android:drawable/ic_menu_edit"
-        android:title="Compose"
+        android:title="Capture"
         app:showAsAction="always" />
     <item
         android:id="@+id/action_profile"
